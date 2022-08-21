@@ -5,7 +5,7 @@ function Header() {
         <header className="flex justify-between p-5 max-w-7xl mx-auto">
             <div className="flex items-center space-x-5">
                 <Link href="/">
-                    <img className="cursor-pointer w-44 object-contain" src="https://links.papareact.com/yvf" alt="" />
+                    <img className="cursor-pointer w-32 md:w-44 object-contain" src="https://links.papareact.com/yvf" alt="" />
                 </Link>
                 <div className="hidden md:inline-flex space-x-5">
                     <h3 className="cursor-pointer">About</h3>
